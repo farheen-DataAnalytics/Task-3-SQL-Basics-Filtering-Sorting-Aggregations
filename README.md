@@ -1,2 +1,1 @@
-# Task-3-SQL-Basics-Filtering-Sorting-Aggregations
-Task 3: SQL Basics – Filtering + Sorting + Aggregations
+“I created a sales database schema, imported CSV data using SQL tools, validated record counts, performed filtering, sorting, aggregation, HAVING, BETWEEN, and LIKE operations, generated summary reports, exported results to CSV, and documented outputs in a README with a clean SQL script.”
